@@ -4,7 +4,8 @@ Download images to local folder
 ## Installation
 
 ```
-$ composer require stanislavsa/img-downloader
+$ composer config repositories.foo vcs https://github.com/stanislavsa/img-downloader
+$ composer require stanislavsa/img-downloader dev-master
 ```
 
 ## Basic Usage
